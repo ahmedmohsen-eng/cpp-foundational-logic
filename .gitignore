@@ -1,15 +1,41 @@
-#Compiled Executables
+# Prerequisites
+*.d
 
-*.exe *.out program *.app
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-#Object Files
+# Precompiled Headers
+*.gch
+*.pch
 
-*.o *.obj
+# Linker files
+*.ilk
 
-#OS generated files
+# Debugger Files
+*.pdb
 
-.DS_Store Thumbs.db
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-#IDE Folders
+# Fortran module files
+*.mod
+*.smod
 
-.vscode/ .idea/ build/
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
