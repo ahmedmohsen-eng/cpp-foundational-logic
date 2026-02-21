@@ -1,15 +1,15 @@
-Compiled Executables
+#Compiled Executables
 
 *.exe *.out program *.app
 
-Object Files
+#Object Files
 
 *.o *.obj
 
-OS generated files
+#OS generated files
 
 .DS_Store Thumbs.db
 
-IDE Folders
+#IDE Folders
 
 .vscode/ .idea/ build/
